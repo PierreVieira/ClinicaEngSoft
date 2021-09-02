@@ -1,0 +1,25 @@
+.Mui-focused {
+    color: #008a3b
+}
+
+.MuiSwitch-colorSecondary.Mui-checked + .MuiSwitch-track {
+    background-color: #008a3b !important;
+}
+
+.MuiSwitch-colorSecondary.Mui-checked {
+    color: #008a3b !important;
+}
+
+.MuiFormLabel-colorSecondary.Mui-focused {
+    color: #008a3b !important;
+}
+
+.MuiGrid-spacing-xs-1 {
+    width: calc(100% + 8px);
+    margin: 0 !important;
+}
+
+.MuiButton-containedSecondary {
+    background-color: #008a3b !important;
+    border-radius: 25px !important;
+}

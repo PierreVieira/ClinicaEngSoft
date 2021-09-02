@@ -1,0 +1,78 @@
+.Font {
+    text-align: justify;
+}
+
+.Font-header {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    height: 80%;
+    background: white;
+    color: #008A3B;
+    padding: 20px 100px;
+    text-align: justify;
+    line-height: 1.5;
+    margin: 10px;
+  }
+
+.Texto {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size:large;
+    border: 5px;
+    background: rgba(137, 137, 137, 0.2);
+    color: #008A3B;
+    padding: 10px;
+    text-align: center;
+    line-height: 1.5;
+    margin: 10px;
+    box-shadow:
+            0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+            0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+            0 12.5px 10px rgba(0, 0, 0, 0.06),
+            0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+            0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+            0 100px 80px rgba(0, 0, 0, 0.12);
+}
+.Texto-1 {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size:medium;
+    border: 5px;
+    background: rgba(253, 253, 253, 0.95);
+    color: #008A3B;
+    padding: 5px;
+    text-align: center;
+    line-height: 1.5;
+/*    box-shadow:
+            0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+            0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+            0 12.5px 10px rgba(0, 0, 0, 0.06),
+            0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+            0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+            0 100px 80px rgba(0, 0, 0, 0.12);*/
+}
+
+.Box {
+    border: 5px;
+    padding-top: 35px;
+    padding-bottom: 50px;
+    text-align: right;
+}
+
+.Especial{
+    background: #008A3B;
+    color: #008A3B;
+    padding: 50px 5px;
+    text-align: center;
+}
+.Font-footer {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    height: 100%;
+    background: white;
+    color: rgb(107, 0, 201);
+    text-align:center;
+    justify-content: center;
+    align-content: center;
+    line-height: 1.5;
+  }
+
+.button{
+    display: none !important;
+}

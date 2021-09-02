@@ -1,0 +1,9 @@
+.MuiChip-outlinedSecondary {
+    color: #5700a5 !important;
+}
+.MuiChip-root .MuiChip-avatarColorSecondary{
+    background-color: #5700a5 !important;
+}
+.MuiCircularProgress-colorPrimary {
+    color: #5700a5 !important;
+}
